@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Article-Journal | Hong Liu</title>
-    <link>http://localhost:1313/publication-type/article-journal/</link>
-      <atom:link href="http://localhost:1313/publication-type/article-journal/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://HongLiu-SCNU.github.io/publication-type/article-journal/</link>
+      <atom:link href="https://HongLiu-SCNU.github.io/publication-type/article-journal/index.xml" rel="self" type="application/rss+xml" />
     <description>Article-Journal</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://HongLiu-SCNU.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Article-Journal</title>
-      <link>http://localhost:1313/publication-type/article-journal/</link>
+      <link>https://HongLiu-SCNU.github.io/publication-type/article-journal/</link>
     </image>
     
     <item>
       <title>One-pot strategy for the preparation of nanoparticles grafted with bimodal polymers: An in-silico insight</title>
-      <link>http://localhost:1313/publication/one-pot-strategy-for-the-preparation-of-nanoparticles/</link>
+      <link>https://HongLiu-SCNU.github.io/publication/one-pot-strategy-for-the-preparation-of-nanoparticles/</link>
       <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/one-pot-strategy-for-the-preparation-of-nanoparticles/</guid>
+      <guid>https://HongLiu-SCNU.github.io/publication/one-pot-strategy-for-the-preparation-of-nanoparticles/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -41,9 +41,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Entropy-Induced Localization and Sliding Dynamics of Rings on Polyrotaxane</title>
-      <link>http://localhost:1313/publication/entropy-induced-localization/</link>
+      <link>https://HongLiu-SCNU.github.io/publication/entropy-induced-localization/</link>
       <pubDate>Sun, 11 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/entropy-induced-localization/</guid>
+      <guid>https://HongLiu-SCNU.github.io/publication/entropy-induced-localization/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -68,9 +68,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Olympic gels formed through catenation of dsDNA rings regulated by topoisomerase II: A coarse-grained model</title>
-      <link>http://localhost:1313/publication/olympic-gels-formed-through-catenation-of-dsdna-rings/</link>
+      <link>https://HongLiu-SCNU.github.io/publication/olympic-gels-formed-through-catenation-of-dsdna-rings/</link>
       <pubDate>Wed, 07 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/olympic-gels-formed-through-catenation-of-dsdna-rings/</guid>
+      <guid>https://HongLiu-SCNU.github.io/publication/olympic-gels-formed-through-catenation-of-dsdna-rings/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -95,9 +95,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Morphology evolution and dynamics of sliding nanodroplets under external forces: A molecular dynamics study</title>
-      <link>http://localhost:1313/publication/morphology-evolut-ion-and-dynamics/</link>
+      <link>https://HongLiu-SCNU.github.io/publication/morphology-evolut-ion-and-dynamics/</link>
       <pubDate>Fri, 24 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/morphology-evolut-ion-and-dynamics/</guid>
+      <guid>https://HongLiu-SCNU.github.io/publication/morphology-evolut-ion-and-dynamics/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -122,9 +122,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Network structure and properties of crosslinked bio-based epoxy resin composite: An in-silico multiscale strategy with dynamic curing reaction process</title>
-      <link>http://localhost:1313/publication/network-structure-and-propert-ies-of-crosslinked-bio-based/</link>
+      <link>https://HongLiu-SCNU.github.io/publication/network-structure-and-propert-ies-of-crosslinked-bio-based/</link>
       <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/network-structure-and-propert-ies-of-crosslinked-bio-based/</guid>
+      <guid>https://HongLiu-SCNU.github.io/publication/network-structure-and-propert-ies-of-crosslinked-bio-based/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -149,9 +149,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Self-limiting directional nanoparticle bonding governed by reaction stoichiometry</title>
-      <link>http://localhost:1313/publication/self-limiting-directional/</link>
+      <link>https://HongLiu-SCNU.github.io/publication/self-limiting-directional/</link>
       <pubDate>Fri, 11 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/self-limiting-directional/</guid>
+      <guid>https://HongLiu-SCNU.github.io/publication/self-limiting-directional/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -176,9 +176,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Inverse Design of Molecular Weight Distribution in Controlled Polymerization via a One-Pot Reaction Strategy</title>
-      <link>http://localhost:1313/publication/inverse-design-of-molecular-weight-distribution-in/morphology-evolut-ion/</link>
+      <link>https://HongLiu-SCNU.github.io/publication/inverse-design-of-molecular-weight-distribution-in/morphology-evolut-ion/</link>
       <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/inverse-design-of-molecular-weight-distribution-in/morphology-evolut-ion/</guid>
+      <guid>https://HongLiu-SCNU.github.io/publication/inverse-design-of-molecular-weight-distribution-in/morphology-evolut-ion/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -203,9 +203,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>In-Depth Analysis of Supramolecular Interfacial Polymerization via a Computer Simulation Strategy</title>
-      <link>http://localhost:1313/publication/in-depth-analysis-of-supramolecular/</link>
+      <link>https://HongLiu-SCNU.github.io/publication/in-depth-analysis-of-supramolecular/</link>
       <pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/in-depth-analysis-of-supramolecular/</guid>
+      <guid>https://HongLiu-SCNU.github.io/publication/in-depth-analysis-of-supramolecular/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -230,9 +230,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Insight into the Polymerization-Induced Self-Assembly via a Realistic Computer Simulation Strategy</title>
-      <link>http://localhost:1313/publication/insight-into-the-polymerization-induced-self-assembly/</link>
+      <link>https://HongLiu-SCNU.github.io/publication/insight-into-the-polymerization-induced-self-assembly/</link>
       <pubDate>Fri, 09 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/insight-into-the-polymerization-induced-self-assembly/</guid>
+      <guid>https://HongLiu-SCNU.github.io/publication/insight-into-the-polymerization-induced-self-assembly/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -257,9 +257,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Distribution of the Number of Polymer Chains Grafted on Nanoparticles Fabricated by Grafting-to and Grafting-from Procedures</title>
-      <link>http://localhost:1313/publication/distribution-of-the-number/</link>
+      <link>https://HongLiu-SCNU.github.io/publication/distribution-of-the-number/</link>
       <pubDate>Tue, 08 May 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/distribution-of-the-number/</guid>
+      <guid>https://HongLiu-SCNU.github.io/publication/distribution-of-the-number/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -284,9 +284,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Dependence of Grafted Polymer Property on the Initiator Site Distribution in Surface-Initiated Polymerization: A Computer Simulation Study</title>
-      <link>http://localhost:1313/publication/dependence-of-grafted-polymer/</link>
+      <link>https://HongLiu-SCNU.github.io/publication/dependence-of-grafted-polymer/</link>
       <pubDate>Wed, 30 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dependence-of-grafted-polymer/</guid>
+      <guid>https://HongLiu-SCNU.github.io/publication/dependence-of-grafted-polymer/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -311,9 +311,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>A kinetic chain growth algorithm in coarse-grained simulations</title>
-      <link>http://localhost:1313/publication/a-kinetic-chain-growth/</link>
+      <link>https://HongLiu-SCNU.github.io/publication/a-kinetic-chain-growth/</link>
       <pubDate>Tue, 28 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/a-kinetic-chain-growth/</guid>
+      <guid>https://HongLiu-SCNU.github.io/publication/a-kinetic-chain-growth/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -338,9 +338,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Influence of Grafting Surface Curvature on Chain Polydispersity and Molecular Weight in Concave Surface-Initiated Polymerization</title>
-      <link>http://localhost:1313/publication/influence-of-grafting-surface-curvature/</link>
+      <link>https://HongLiu-SCNU.github.io/publication/influence-of-grafting-surface-curvature/</link>
       <pubDate>Wed, 10 Oct 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/influence-of-grafting-surface-curvature/</guid>
+      <guid>https://HongLiu-SCNU.github.io/publication/influence-of-grafting-surface-curvature/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -365,9 +365,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Multiscale Simulation Study on the Curing Reaction and the Network Structure in a Typical Epoxy System</title>
-      <link>http://localhost:1313/publication/multiscale-simulation-study-on-the-curing-reaction/</link>
+      <link>https://HongLiu-SCNU.github.io/publication/multiscale-simulation-study-on-the-curing-reaction/</link>
       <pubDate>Mon, 17 Oct 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/multiscale-simulation-study-on-the-curing-reaction/</guid>
+      <guid>https://HongLiu-SCNU.github.io/publication/multiscale-simulation-study-on-the-curing-reaction/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -392,9 +392,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Influence of Surface-Initiated Polymerization Rate and Initiator Density on the Properties of Polymer Brushes</title>
-      <link>http://localhost:1313/publication/influence-of-surface-initiated-polymerization-rate/</link>
+      <link>https://HongLiu-SCNU.github.io/publication/influence-of-surface-initiated-polymerization-rate/</link>
       <pubDate>Wed, 18 Mar 2009 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/influence-of-surface-initiated-polymerization-rate/</guid>
+      <guid>https://HongLiu-SCNU.github.io/publication/influence-of-surface-initiated-polymerization-rate/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;

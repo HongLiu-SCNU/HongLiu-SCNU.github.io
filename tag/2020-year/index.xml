@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2020 Year | Hong Liu</title>
-    <link>http://localhost:1313/tag/2020-year/</link>
-      <atom:link href="http://localhost:1313/tag/2020-year/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://HongLiu-SCNU.github.io/tag/2020-year/</link>
+      <atom:link href="https://HongLiu-SCNU.github.io/tag/2020-year/index.xml" rel="self" type="application/rss+xml" />
     <description>2020 Year</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 11 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://HongLiu-SCNU.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>2020 Year</title>
-      <link>http://localhost:1313/tag/2020-year/</link>
+      <link>https://HongLiu-SCNU.github.io/tag/2020-year/</link>
     </image>
     
     <item>
       <title>Self-limiting directional nanoparticle bonding governed by reaction stoichiometry</title>
-      <link>http://localhost:1313/publication/self-limiting-directional/</link>
+      <link>https://HongLiu-SCNU.github.io/publication/self-limiting-directional/</link>
       <pubDate>Fri, 11 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/self-limiting-directional/</guid>
+      <guid>https://HongLiu-SCNU.github.io/publication/self-limiting-directional/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -41,9 +41,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Inverse Design of Molecular Weight Distribution in Controlled Polymerization via a One-Pot Reaction Strategy</title>
-      <link>http://localhost:1313/publication/inverse-design-of-molecular-weight-distribution-in/morphology-evolut-ion/</link>
+      <link>https://HongLiu-SCNU.github.io/publication/inverse-design-of-molecular-weight-distribution-in/morphology-evolut-ion/</link>
       <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/inverse-design-of-molecular-weight-distribution-in/morphology-evolut-ion/</guid>
+      <guid>https://HongLiu-SCNU.github.io/publication/inverse-design-of-molecular-weight-distribution-in/morphology-evolut-ion/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
