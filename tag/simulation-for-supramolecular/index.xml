@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Simulation for Supramolecular | Hong Liu</title>
-    <link>https://HongLiu-SCNU.github.io/tag/simulation-for-supramolecular/</link>
-      <atom:link href="https://HongLiu-SCNU.github.io/tag/simulation-for-supramolecular/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tag/simulation-for-supramolecular/</link>
+      <atom:link href="http://localhost:1313/tag/simulation-for-supramolecular/index.xml" rel="self" type="application/rss+xml" />
     <description>Simulation for Supramolecular</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 20 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://HongLiu-SCNU.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Simulation for Supramolecular</title>
-      <link>https://HongLiu-SCNU.github.io/tag/simulation-for-supramolecular/</link>
+      <link>http://localhost:1313/tag/simulation-for-supramolecular/</link>
     </image>
     
     <item>
       <title>Network structure and properties of crosslinked bio-based epoxy resin composite: An in-silico multiscale strategy with dynamic curing reaction process</title>
-      <link>https://HongLiu-SCNU.github.io/publication/network-structure-and-propert-ies-of-crosslinked-bio-based/</link>
+      <link>http://localhost:1313/publication/network-structure-and-propert-ies-of-crosslinked-bio-based/</link>
       <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://HongLiu-SCNU.github.io/publication/network-structure-and-propert-ies-of-crosslinked-bio-based/</guid>
+      <guid>http://localhost:1313/publication/network-structure-and-propert-ies-of-crosslinked-bio-based/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -41,9 +41,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Inverse Design of Molecular Weight Distribution in Controlled Polymerization via a One-Pot Reaction Strategy</title>
-      <link>https://HongLiu-SCNU.github.io/publication/inverse-design-of-molecular-weight-distribution-in/morphology-evolut-ion/</link>
+      <link>http://localhost:1313/publication/inverse-design-of-molecular-weight-distribution-in/morphology-evolut-ion/</link>
       <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://HongLiu-SCNU.github.io/publication/inverse-design-of-molecular-weight-distribution-in/morphology-evolut-ion/</guid>
+      <guid>http://localhost:1313/publication/inverse-design-of-molecular-weight-distribution-in/morphology-evolut-ion/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -68,9 +68,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Dependence of Grafted Polymer Property on the Initiator Site Distribution in Surface-Initiated Polymerization: A Computer Simulation Study</title>
-      <link>https://HongLiu-SCNU.github.io/publication/dependence-of-grafted-polymer/</link>
+      <link>http://localhost:1313/publication/dependence-of-grafted-polymer/</link>
       <pubDate>Wed, 30 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>https://HongLiu-SCNU.github.io/publication/dependence-of-grafted-polymer/</guid>
+      <guid>http://localhost:1313/publication/dependence-of-grafted-polymer/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -95,9 +95,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>A kinetic chain growth algorithm in coarse-grained simulations</title>
-      <link>https://HongLiu-SCNU.github.io/publication/a-kinetic-chain-growth/</link>
+      <link>http://localhost:1313/publication/a-kinetic-chain-growth/</link>
       <pubDate>Tue, 28 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>https://HongLiu-SCNU.github.io/publication/a-kinetic-chain-growth/</guid>
+      <guid>http://localhost:1313/publication/a-kinetic-chain-growth/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -122,9 +122,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Multiscale Simulation Study on the Curing Reaction and the Network Structure in a Typical Epoxy System</title>
-      <link>https://HongLiu-SCNU.github.io/publication/multiscale-simulation-study-on-the-curing-reaction/</link>
+      <link>http://localhost:1313/publication/multiscale-simulation-study-on-the-curing-reaction/</link>
       <pubDate>Mon, 17 Oct 2011 00:00:00 +0000</pubDate>
-      <guid>https://HongLiu-SCNU.github.io/publication/multiscale-simulation-study-on-the-curing-reaction/</guid>
+      <guid>http://localhost:1313/publication/multiscale-simulation-study-on-the-curing-reaction/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -149,9 +149,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Influence of Surface-Initiated Polymerization Rate and Initiator Density on the Properties of Polymer Brushes</title>
-      <link>https://HongLiu-SCNU.github.io/publication/influence-of-surface-initiated-polymerization-rate/</link>
+      <link>http://localhost:1313/publication/influence-of-surface-initiated-polymerization-rate/</link>
       <pubDate>Wed, 18 Mar 2009 00:00:00 +0000</pubDate>
-      <guid>https://HongLiu-SCNU.github.io/publication/influence-of-surface-initiated-polymerization-rate/</guid>
+      <guid>http://localhost:1313/publication/influence-of-surface-initiated-polymerization-rate/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;

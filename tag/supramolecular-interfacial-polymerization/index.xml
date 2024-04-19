@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Supramolecular Interfacial Polymerization | Hong Liu</title>
-    <link>https://HongLiu-SCNU.github.io/tag/supramolecular-interfacial-polymerization/</link>
-      <atom:link href="https://HongLiu-SCNU.github.io/tag/supramolecular-interfacial-polymerization/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tag/supramolecular-interfacial-polymerization/</link>
+      <atom:link href="http://localhost:1313/tag/supramolecular-interfacial-polymerization/index.xml" rel="self" type="application/rss+xml" />
     <description>Supramolecular Interfacial Polymerization</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 19 Aug 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://HongLiu-SCNU.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Supramolecular Interfacial Polymerization</title>
-      <link>https://HongLiu-SCNU.github.io/tag/supramolecular-interfacial-polymerization/</link>
+      <link>http://localhost:1313/tag/supramolecular-interfacial-polymerization/</link>
     </image>
     
     <item>
       <title>In-Depth Analysis of Supramolecular Interfacial Polymerization via a Computer Simulation Strategy</title>
-      <link>https://HongLiu-SCNU.github.io/publication/in-depth-analysis-of-supramolecular/</link>
+      <link>http://localhost:1313/publication/in-depth-analysis-of-supramolecular/</link>
       <pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://HongLiu-SCNU.github.io/publication/in-depth-analysis-of-supramolecular/</guid>
+      <guid>http://localhost:1313/publication/in-depth-analysis-of-supramolecular/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -41,9 +41,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Influence of Grafting Surface Curvature on Chain Polydispersity and Molecular Weight in Concave Surface-Initiated Polymerization</title>
-      <link>https://HongLiu-SCNU.github.io/publication/influence-of-grafting-surface-curvature/</link>
+      <link>http://localhost:1313/publication/influence-of-grafting-surface-curvature/</link>
       <pubDate>Wed, 10 Oct 2012 00:00:00 +0000</pubDate>
-      <guid>https://HongLiu-SCNU.github.io/publication/influence-of-grafting-surface-curvature/</guid>
+      <guid>http://localhost:1313/publication/influence-of-grafting-surface-curvature/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
